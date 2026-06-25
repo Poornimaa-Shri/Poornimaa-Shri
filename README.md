@@ -176,15 +176,15 @@ Led QA for a multi-role Event Management platform serving Admins, Organizers, an
 
 <div align="center">
 
-<a href="www.linkedin.com/in/poornimaa-shri" target="_blank">
+<a href="https://www.linkedin.com/in/poornimaa-shri-vk" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:bkshrivel2005@gmail.com">
+<a href="mailto:poornimaashrivk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Poornimaa-Shri" target="_blank">
+<a href="https://github.com/poornimaa-shri-vk" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
